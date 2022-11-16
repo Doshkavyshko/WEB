@@ -1,0 +1,26 @@
+body {
+    margin-top: 10px;
+    background-color: ghostwhite;
+}
+h1 {
+    color: ghostwhite;
+    padding: 5px; /* Поля вокруг текста */
+}
+label {
+    margin-top: 200px;
+    vertical-align: center;
+    horiz-align: center;
+}
+#name {
+    margin-left: 600px;
+    margin-top: -110px;
+}
+#email {
+    margin-left: 600px;
+}
+#login {
+    margin-left: 600px;
+}
+#password {
+    margin-left: 600px;
+}

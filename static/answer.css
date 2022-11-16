@@ -1,0 +1,51 @@
+body {
+    margin-top: 10px;
+    background-color: ghostwhite;
+}
+h1 {
+    color: ghostwhite;
+    padding: 5px;
+}
+form {
+    margin-left: 50px;
+    margin-top: 10px;
+}
+h2 {
+    margin: 30px;
+    margin-inside: 30px;
+    color: ghostwhite;
+    padding: 10px;
+
+}
+#rightcol {
+    position: absolute;
+    right: 0;
+    top: 50px;
+    height: 713px;
+    width: 350px;
+    padding: 10px;
+    background-color: darkgray;
+    border: 4px double black;
+}
+li {
+    padding: 5px;
+    color: ghostwhite;
+}
+#avatar {
+    position:absolute;
+    right: 120px;
+}
+#ask {
+    background: darkgreen;
+    color: ghostwhite;
+}
+h3 {
+    margin-top: 120px;
+}
+#cancel {
+    color: ghostwhite;
+    background: darkred;
+}
+a{
+    color: #1a1e21;
+}
