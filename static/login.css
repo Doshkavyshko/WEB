@@ -1,0 +1,13 @@
+body {
+    margin-top: 10px;
+    background-color: ghostwhite;
+}
+h1 {
+    color: ghostwhite;
+    padding: 5px;
+}
+#log {
+    position: absolute;
+    left: 600px;
+    top: 80px;
+}
